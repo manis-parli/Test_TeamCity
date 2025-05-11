@@ -10,6 +10,7 @@ namespace Test_TeamCity_Tests
         [Test]
         public void Test1()
         {
+            Assert.That(true, Is.True);
             Assert.Pass();
         }
     }
