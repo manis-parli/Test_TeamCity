@@ -1,0 +1,6 @@
+# Example .gitignore for Visual Studio
+*.user
+*.suo
+bin/
+obj/
+*.vs/
