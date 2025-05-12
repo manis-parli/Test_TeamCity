@@ -17,7 +17,7 @@ namespace Test_TeamCity_Website.Controllers
         public IActionResult Index()
         {
             var bur = new Attendance(); 
-            string test = "make changes df";
+            string test = "make changes df kh";
             return View();
         }
 
